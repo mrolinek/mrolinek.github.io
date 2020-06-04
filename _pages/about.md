@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Who am I?** Machine-learning researcher, Python geek, math olympiad enthusiast, occasionally problem-solving teacher in Africa,   
+**Who am I?** Machine-learning researcher, Python geek, math olympiad enthusiast, occasionally problem-solving teacher in Africa, mountain lover, amateur Waltz dancer   
 
 **My research mission:**
 * Use combinatorial algorithms to improve deep learning.
