@@ -11,6 +11,25 @@ author_profile: true
 
 {% endif %}
 
+<h3 itemprop="headline">
+      {{ "Differentiation of Blackbox Combinatorial Solvers" }}
+</h3>
+
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.title == "Differentiation of Blackbox Combinatorial Solvers" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
+
+
+<h3 itemprop="headline">
+      {{ "Variational Autoencoders Pursue PCA directions" }}
+</h3>
+
+{% for post in site.talks reversed %}
+  {% if post.title == "Variational Autoencoders Pursue PCA directions" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+
