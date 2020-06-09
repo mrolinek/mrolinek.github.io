@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 
-* Python, C++, linux, git, scientific computing
+* Python, C++, Linux, Git, scientific computing, PyTorch, Tensorflow
 
 
 Publications
