@@ -2,7 +2,7 @@
 title: "Differentiation of Blackbox Combinatorial Solvers"
 collection: publications
 permalink: /publication/2019-09-bbackprop2019
-excerpt: 'Embed blackbox combinatorial solvers into neural networks without any sacrifices! How to turn c++ code for solving e.g. travelling salesman into a differentiable NN building block. Mostly theoretical work with update rule resembling classical SVM-based methods but revamped to make good theoretical sense for deep learning.'
+excerpt: 'Embed blackbox combinatorial solvers into neural networks without any sacrifices! How to turn c++ code for solving e.g. travelling salesman into a differentiable NN building block. Mostly theoretical work with update rule resembling classical SVM-based methods but revamped to make good theoretical sense for deep learning. The start of [#blackboxbackprop](https://twitter.com/hashtag/blackboxbackprop?src=hash).'
 venue: 'ICLR 2020 (spotlight)'
 authors: 'Marin Vlastelica\*, Anselm Paulus\*, Vít Musil, Georg Martius, Michal Rolínek'
 arxiv_link: 'https://arxiv.org/abs/1912.02175'

@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * (2017) PhD in Discrete optimization from [IST Austria](https://ist.ac.at), under supervision of [Vladimir Kolmogorov](https://pub.ist.ac.at/~vnk/)
-* (2012) Master's degree in Functional analysis from [Charles University, Prague](https://mff.cuni.cz), under supervision of [Jiří Spurný](http://www.karlin.mff.cuni.cz/~spurny/)
+* (2012) Master's degree in Functional analysis from [Charles University, Prague](https://mff.cuni.cz/en), under supervision of [Jiří Spurný](http://www.karlin.mff.cuni.cz/~spurny/)
 
 Work experience
 ======
