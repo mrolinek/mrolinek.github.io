@@ -20,12 +20,12 @@ Activities in Africa
 Math Olympiads & Problem Solving
 ========
 
-* Team leader of the Czech [International Mathematical Olympiad](imo-official.org) delegation, 2019, UK.
-* Deputy leader of the Czech [International Mathematical Olympiad](imo-official.org), (2015, 2018), Thailand, Romania.
+* Team leader of the Czech [International Mathematical Olympiad](https://imo-official.org) delegation, 2019, UK.
+* Deputy leader of the Czech [International Mathematical Olympiad](https://imo-official.org), (2015, 2018), Thailand, Romania.
 * Organizer and problem writer of the Czech national olympiad since 2008.
-* Problem-solving lecturer with [AwesomeMath](awesomemath.org) (2010-2015)
-* Founder of [iksko](iksko.org) competition (2010)
-* High school teaching at [PORG](porg.cz) and [GJK](www.gjk.cz) in Prague (2007-2013)
+* Problem-solving lecturer with [AwesomeMath](https://awesomemath.org) (2010-2015)
+* Founder of [iksko](https://iksko.org) competition (2010)
+* High school teaching at [PORG](https://porg.cz) and [GJK](https://www.gjk.cz) in Prague (2007-2013)
 
 
 
