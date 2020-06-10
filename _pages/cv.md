@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 
-* Python, C++, Linux, Git, scientific computing, PyTorch, Tensorflow, LaTeX
+* Python, C++, Linux, Git, scientific computing, PyTorch, TensorFlow, LaTeX
 
 Awards
 ======
@@ -36,7 +36,7 @@ Awards
 Service and leadership
 ======
 * Reviewer for NeurIPS, CVPR.
-* Organizer of Mathematical competitions
+* Organizer of mathematical competitions
 * Occasional teaching in Africa
 
 
