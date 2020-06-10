@@ -17,4 +17,4 @@ redirect_from:
 
 **Other research topics:** keypoint matching, metric learning, constraint satisfaction, reinforcement learning, generative models, disentanglement, stochastic optimization, graph neural networks, operations research 
 
-**Hire me :)** I am currently open to research-flavored job opportunities in industry. Send me an email :) 
+**Hire me :)** I am currently open to research-flavored job opportunities in industry/academia. Send me an email :) 
