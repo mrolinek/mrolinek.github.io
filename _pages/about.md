@@ -13,7 +13,7 @@ redirect_from:
 **My research mission:**
 * Use combinatorial algorithms to improve deep learning.
 * Use deep learning to improve combinatorial algorithms. 
-* Use the above two to compete on computer vision benchmarks.
+* With the above two, compete on computer vision benchmarks.
 
 **Other research topics:** keypoint matching, metric learning, constraint satisfaction, reinforcement learning, generative models, disentanglement, stochastic optimization, graph neural networks, operations research 
 
