@@ -10,6 +10,11 @@ var addressPoints = [
     9.0535531
   ],
   [
+    "Atlanta, USA",
+    33.7490987,
+    -84.3901849
+  ],
+  [
     "Heidelberg, Germany",
     49.4093582,
     8.694724
