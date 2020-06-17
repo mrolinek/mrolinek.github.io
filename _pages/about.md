@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**News** Our paper [Optimizing Rank-based Metrics with Blackbox Differentiation](publication/2019-11-ranking2019) was among the ~25 nominees for the best paper award at CVPR2020 (out of ~1400 papers). Yay! 
+
 **Who am I?** Machine-learning researcher, Python geek, math olympiad enthusiast, occasionally problem-solving teacher in Africa, mountain lover, amateur Waltz dancer   
 
 **My research mission:**
