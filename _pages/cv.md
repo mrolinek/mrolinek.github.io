@@ -29,6 +29,7 @@ Skills
 
 Awards
 ======
+* CVPR 2020 best paper award nomination
 * CVPR 2018 HM best paper award
 * Czech Republic Mathematical Olympiad absolute winner (2007)
 * International Mathematical Olympiad bronze medal (2007)

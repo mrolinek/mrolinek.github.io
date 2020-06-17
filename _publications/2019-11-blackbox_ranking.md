@@ -3,7 +3,7 @@ title: "Optimizing Rank-based Metrics with Blackbox Differentiation"
 collection: publications
 permalink: /publication/2019-11-ranking2019
 excerpt: '[#blackboxbackprop](https://twitter.com/hashtag/blackboxbackprop?src=hash) allows to differentiate through the ranking function out of the box. This, along with a few other tricks, allows for efficient optimization of rank-based metrics. With a minimal implementation overhead, we obtain competitive results on metric learning benchmarks and on object detection.'
-venue: 'CVPR 2020 (oral)'
+venue: 'CVPR 2020 (oral) nomination for best paper award'
 authors: 'Michal Rolínek\*, Vít Musil\*, Anselm Paulus, Marin Vlastelica, Claudio Michaelis, Georg Martius'
 arxiv_link: 'https://arxiv.org/abs/1912.03500'
 github_link: 'https://github.com/martius-lab/blackbox-backprop'
