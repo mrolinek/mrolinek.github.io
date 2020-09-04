@@ -3,7 +3,6 @@ title: "Deep Graph Matching via Blackbox Differentiation of Combinatorial Solver
 collection: publications
 permalink: /publication/2020-03-20-gm2020
 excerpt: 'Using [#blackboxbackprop](https://twitter.com/hashtag/blackboxbackprop?src=hash), we wrap strong graph matching solvers into neural network building blocks. With additional help of a few architectural tricks, we obtain SOTA on deep graph matching benchmarks (e.g. PASCAL VOC).'
-date: 2020-03-20
 venue: 'ECCV 2020'
 authors: 'Michal Rolínek, Paul Swoboda, Dominik Zietlow, Anselm Paulus, Vít Musil, Georg Martius'
 arxiv_link: 'https://arxiv.org/abs/2003.11657'
