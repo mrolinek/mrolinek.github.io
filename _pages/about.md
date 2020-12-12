@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 **News**
-* I was also invited to speak at [INFORMS 2020](https://www.informs.org/Meetings-Conferences)!
-* I am an invited speaker for the NeurIPS workshop on [Learning Meets Combinatorial Algorithms](https://sites.google.com/view/lmca2020/home)
+* Invited talk at the NeurIPS workshop on [Learning Meets Combinatorial Algorithms](https://sites.google.com/view/lmca2020/home)
+* Invited talk at [INFORMS 2020](https://www.informs.org/Meetings-Conferences)!
 * A fresh RL paper [Sample-efficient Cross-Entropy Method for Real-time Planning](publication/2020-08-20-CEM2020)!  
 * Our paper [Optimizing Rank-based Metrics with Blackbox Differentiation](publication/2019-11-ranking2019) was among the ~25 nominees for the best paper award at CVPR2020 (out of ~1400 papers). Yay! 
 
